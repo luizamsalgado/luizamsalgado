@@ -13,7 +13,7 @@
 
 - :school: I am a `Junior` at [Science and Tech](https://prograd.ufabc.edu.br/bct) at [UFABC]([http://suez.edu.eg/ar](https://www.ufabc.edu.br/)/).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `DM`.
+- :computer: I am a programmer at `DM`.
 - :student: I’m currently learning `Flutter` and `Front-end developing`.
 - :nerd_face: Always `learning new things`.
 - :thinking: You can know more about my experiences in [MY RESUME](https://www.canva.com/design/DAEiueqHhAI/NkozkqpXtzDoPq4KD0NfiA/edit?utm_content=DAEiueqHhAI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
